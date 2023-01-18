@@ -6,6 +6,6 @@ function work(){
 }
 function worked(){
     document.getElementById('set_type').value='退勤'
-    submit()
     alert('退勤処理を実行しました。')
+    submit()
 }
