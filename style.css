@@ -2,7 +2,7 @@ h1{
     width: auto;
     height: auto;
     margin: 0;
-    font-size: 50px;
+    font-size: 280%;
     padding-bottom: 20px;
     text-align: center;
 }
@@ -14,7 +14,7 @@ h1{
 button{
     height: 100px;
     width: 40%;
-    font-size: 30px;
+    font-size: 200%;
 }
 
 form{
