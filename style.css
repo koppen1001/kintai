@@ -19,6 +19,6 @@ button{
 
 form{
     background-color: lightpink;
-    margin: auto 20%;
+    margin: auto auto;
     padding: 50px 0;
 }
